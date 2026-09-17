@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning Perubahan Lingkungan SMP",
+  "description": "Portal media pembelajaran interaktif bertema Perubahan Lingkungan untuk siswa SMP dengan modul materi, simulasi interaktif, kuis berwaktu, absensi, dan panduan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
